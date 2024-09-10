@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="web_to_pdf",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Miller Marcus",
+    author_email="mm@franchiseportal.io",
     description="A tool to convert web pages to PDF",
     long_description=long_description,
     long_description_content_type="text/markdown",
